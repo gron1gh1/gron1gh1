@@ -3,7 +3,7 @@
 - **I work in Web Application and Desktop Application Core part.**
 - **I'm interested in Golang, Computer Vision and Machine Learning these days.**
 
-### My Skill
+### My Skill 📙
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gron1gh1&hide=scss,html,css&layout=compact&langs_count=8)  
 
 
