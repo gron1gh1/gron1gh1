@@ -8,5 +8,5 @@
 - **Not only this, I have many other skills.**
 
 ### Etc
-**Blog : [develment.blog](https://develment.blog)**  
+- **Blog : [develment.blog](https://develment.blog)**  
  
