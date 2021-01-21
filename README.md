@@ -7,5 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gron1gh1&hide=scss,html,css&layout=compact&langs_count=8)  
 - **Not only this, I have many other skills.**
 
+### Etc
 **Blog : [develment.blog](https://develment.blog)**  
-  
+ 
