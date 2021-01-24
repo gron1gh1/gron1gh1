@@ -5,7 +5,7 @@
 
 ### My Skill 📙
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gron1gh1&hide=scss,html,css&layout=compact&langs_count=8) 
-- **I can do more than this**
+- **I can do more than this.**
 
 ### Etc 🌏
 - **Blog : [develment.blog](https://develment.blog)**  
